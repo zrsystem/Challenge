@@ -24,41 +24,31 @@ TELEFONES -> tipo(cel ou fixo), numero com dd.
 Regras de negócio
 
 Para este teste será necessário criar um CRUD onde seja possivel (Adicionar, Editar, Listar e Excluir).
-
 Os campos cpf, cnpj, identidade(RG) e telefone devem conter as mascaras respectivas.
-
 Em endereço o campo cep deve preencher automaticamente os outros campos (Ultilizar API Viacep) https://viacep.com.br
 Todos os campos são obrigatórios. 
-
 Criar uma função para validar o cpf.
-
 Os campos de telefones devem ser dinamicos.
 
 
 Requistos técnicos
 
 O teste terá que ser desenvolvido no framework Laravel versão 8.
-
 Para criação do formulário, tabelas e botões Bootstrap.
-
 Ultilizar o Jquery para criação dos campos dinamicos.
  
  
 O que será avaliado.
 
 Qualidade do código
-
 Reutilização de código
-
 Versionamento correto
-
 Escalabilidade
 
 
 Dicas 
 
 Faça varios commits explicando cada função desenvolvida.
-
 Comente no código explicando oque está sendo feito. 
 
 
