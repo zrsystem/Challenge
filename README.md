@@ -40,10 +40,14 @@ Ultilizar o Jquery para criação dos campos dinamicos.
  
 O que será avaliado.
 
-Qualidade do código
-Reutilização de código
-Versionamento correto
-Escalabilidade
+
+Qualidade do código.
+
+Reutilização de código.
+
+Versionamento correto.
+
+Escalabilidade.
 
 
 Dicas 
