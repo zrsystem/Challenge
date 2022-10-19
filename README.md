@@ -23,20 +23,24 @@ Os campos cpf, cnpj, identidade(RG) e telefone devem conter as mascaras respecti
 Em endereço o campo cep deve preencher automaticamente os outros campos (Ultilizar API Viacep) https://viacep.com.br
 Todos os campos são obrigatórios. 
 Criar uma função para validar o cpf.
-Os campos de telefones devem ser dinamicos, sendo o primeiro obrigatório.
+Os campos de telefones devem ser dinamicos.
 
 Requistos técnicos
 O teste terá que ser desenvolvido no framework Laravel versão 8.
-Para criação do formulario e tabelas Bootstrap.
+Para criação do formulário, tabelas e botões Bootstrap.
 Ultilizar o Jquery para criação dos campos dinamicos.
  
 O que será avaliado.
 
 Qualidade do código
-reutilização de código
+Reutilização de código
 Versionamento correto
 Escalabilidade
-Testabilidade
+
+Dicas 
+Faça varios commits explicando cada função desenvolvida.
+Comente no código explicando oque está sendo feito. 
+
 
 Boa Sorte!
 Duvidas entrar em contato com Gabriel (11) 96498-1181.
